@@ -1,0 +1,1 @@
+- Paket: $TMP oder Übungspaket; Objekte immer nur mit eigenem Kürzel am Ende anlegen, auch wenn am Anfang ins System kopiert wird: Z...<TTMMJJVN>
